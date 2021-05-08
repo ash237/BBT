@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="intro2.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="finnal0032" x="0" y="2435" width="4399" height="2433" frameX="-87" frameY="0" frameWidth="4486" frameHeight="2438"/>
+	<SubTexture name="finnal0033" x="0" y="0" width="4399" height="2435" frameX="-85" frameY="-2" frameWidth="4486" frameHeight="2438"/>
+	<SubTexture name="finnal0034" x="0" y="4868" width="4399" height="2431" frameX="-79" frameY="-7" frameWidth="4486" frameHeight="2438"/>
+</TextureAtlas>

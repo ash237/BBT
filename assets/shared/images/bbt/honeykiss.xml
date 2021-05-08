@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="honeykiss.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="honeykiss idle0000" x="2420" y="3042" width="2354" height="2931" frameX="-49" frameY="-93" frameWidth="2403" frameHeight="3045"/>
+	<SubTexture name="honeykiss idle0001" x="2420" y="3042" width="2354" height="2931" frameX="-49" frameY="-93" frameWidth="2403" frameHeight="3045"/>
+	<SubTexture name="honeykiss idle0002" x="4800" y="2998" width="2346" height="2942" frameX="-55" frameY="-84" frameWidth="2403" frameHeight="3045"/>
+	<SubTexture name="honeykiss idle0003" x="4800" y="2998" width="2346" height="2942" frameX="-55" frameY="-84" frameWidth="2403" frameHeight="3045"/>
+	<SubTexture name="honeykiss idle0004" x="4800" y="10" width="2324" height="2978" frameX="-72" frameY="-55" frameWidth="2403" frameHeight="3045"/>
+	<SubTexture name="honeykiss idle0005" x="4800" y="10" width="2324" height="2978" frameX="-72" frameY="-55" frameWidth="2403" frameHeight="3045"/>
+	<SubTexture name="honeykiss idle0006" x="2420" y="10" width="2370" height="3022" frameX="-27" frameY="-19" frameWidth="2403" frameHeight="3045"/>
+	<SubTexture name="honeykiss idle0007" x="2420" y="10" width="2370" height="3022" frameX="-27" frameY="-19" frameWidth="2403" frameHeight="3045"/>
+	<SubTexture name="honeykiss idle0008" x="10" y="10" width="2400" height="3045" frameX="0" frameY="0" frameWidth="2403" frameHeight="3045"/>
+	<SubTexture name="honeykiss idle0009" x="10" y="10" width="2400" height="3045" frameX="0" frameY="0" frameWidth="2403" frameHeight="3045"/>
+</TextureAtlas>
